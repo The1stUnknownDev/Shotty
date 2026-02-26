@@ -1,0 +1,16 @@
+{
+  "name": "shotty",
+  "version": "0.1.0",
+  "description": "Beautiful macOS screenshot tool with S3 integration",
+  "scripts": {
+    "tauri": "tauri",
+    "dev": "tauri dev",
+    "build": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2"
+  }
+}

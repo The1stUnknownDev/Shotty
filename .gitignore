@@ -1,0 +1,13 @@
+node_modules/
+target/
+dist/
+.DS_Store
+Thumbs.db
+*.log
+src-tauri/gen/
+
+# Certificates / secrets
+.env
+*.cer
+*.key
+*.p12
